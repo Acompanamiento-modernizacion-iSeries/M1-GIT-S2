@@ -1,3 +1,3 @@
 Hola Mundo 1
 
-<img src="Capturagit.png" alt="Mi captura" />
+<img src="Capturagit.PNG" alt="Mi captura" />
