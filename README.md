@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M1-GIT-S2
 # **Taller: Sistema Bancario con Múltiples Funcionalidades**
 > **Larry M. Ramírez - Coach Tecnico**
@@ -20,3 +21,10 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 - Tomar una captura de pantalla de los logs, subirla al repositorio y mostrarla en la página principal por medio del archivo README.md.
 
 **NOTA**: Cada acción realizada se debe reflejar en su respectivo commit correctamente nombrado.
+=======
+# sistema_bancario
+sistema bancario prueba
+
+# Grafico Log
+![Logs](log.png)
+>>>>>>> upstream/main
