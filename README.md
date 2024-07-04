@@ -20,3 +20,13 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 - Tomar una captura de pantalla de los logs, subirla al repositorio y mostrarla en la página principal por medio del archivo README.md.
 
 **NOTA**: Cada acción realizada se debe reflejar en su respectivo commit correctamente nombrado.
+
+======= ======= =======
+
+# **Banco Coquito SAS**
+
+## Sistema Bancario Simulado Básico:
+
+Este proyecto simula un sistema bancario básico. Permite a los usuarios realizar operaciones como crear cuentas, consultar saldos, depositar y retirar fondos, y transferir dinero entre cuentas.
+
+![Captura git log --oneline --graph](GitLogOnlineGraph.png "Ramificación Repositorio sistema-bancario")
