@@ -1,3 +1,3 @@
 #SISTEMA BANCARIO
 
-![Log de la aplicacion](log.PNG)
+![Log de la aplicacion](Log.PNG)
