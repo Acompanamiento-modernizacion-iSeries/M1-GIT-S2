@@ -20,3 +20,7 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 - Tomar una captura de pantalla de los logs, subirla al repositorio y mostrarla en la página principal por medio del archivo README.md.
 
 **NOTA**: Cada acción realizada se debe reflejar en su respectivo commit correctamente nombrado.
+
+# sistema-banco
+![Log](Captura.png)
+
