@@ -1,22 +1,8 @@
-# M1-GIT-S2
-# **Taller: Sistema Bancario con Múltiples Funcionalidades**
-> **Larry M. Ramírez - Coach Tecnico**
+# Sistema Bancario
 
-# Objetivo.
+Sistema Bancario que permite a los usuarios/clientes comunicarse o conectarse con todos los servicios que ofrecen el BancoGIT.
 
-Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión de ramas, creación de merges y realizando la resolución de conflictos.
+## Log de procesos
 
-# Instrucciones.
 
--   Se debe crear un repositorio remoto en GitHub llamado ‘sistema-bancario’, dicho repositorio debe ser clonado en la máquina local y después de cada cambio se debe mantener actualizado el repositorio remoto.     
--   En la rama main se debe crear un archivo README.md.
--   A partir de este punto se deben crear ramas para diferentes funcionalidades, en cada rama debe existir un archivo .md que represente el contenido de la rama en cuestión, ej: 
-> - ‘funcionalidad/registro-usuario’ - usuarios.md 
-> - ‘funcionalidad/transacciones’ - logs-transacciones.md
-> - ‘funcionalidad/seguridad’ - configuracion-seguridad.md
-
--   Crear una rama a partir de alguna de las ramas creadas en el punto anterior, editar el archivo que contiene y realizar merge a la rama original. 
-- Hacer merge de todas las ramas creadas a la rama main.
-- Tomar una captura de pantalla de los logs, subirla al repositorio y mostrarla en la página principal por medio del archivo README.md.
-
-**NOTA**: Cada acción realizada se debe reflejar en su respectivo commit correctamente nombrado.
+![image](https://github.com/haroldcholesmejia/sistema-bancario/assets/37917448/5862043d-2905-4c21-930e-90e3d67dcdc5)
