@@ -1,3 +1,4 @@
+
 # M1-GIT-S2
 # **Taller: Sistema Bancario con Múltiples Funcionalidades**
 > **Larry M. Ramírez - Coach Tecnico**
@@ -20,3 +21,13 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 - Tomar una captura de pantalla de los logs, subirla al repositorio y mostrarla en la página principal por medio del archivo README.md.
 
 **NOTA**: Cada acción realizada se debe reflejar en su respectivo commit correctamente nombrado.
+=======
+
+### git log:
+![Descripcion comando LOG](logs.png)
+
+### git log --oneline:
+![Descripcion comando LOG](logsoneline.png)
+
+### git log --oneline --graph:
+![Descripcion comando LOG](logsonelinegraph.png)
